@@ -1,0 +1,8 @@
+Une caine de caractèresAA JAVA
+65
+3.14
+Une nouvelle chaine de caracteres
+true
+point [x=20, y=30]
+point [x=45, y=34]
+point [x=79, y=17]
